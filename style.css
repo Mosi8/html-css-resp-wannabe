@@ -76,7 +76,7 @@ img {
 
 
 
-
+/* SMARTPHONE */
 @media screen and (max-width: 419px) {
   *{
     margin: 0;
@@ -118,7 +118,7 @@ img {
   }
 }
 
-
+/* TABLET */
 @media screen and (min-width: 420px) and (max-width: 768px){
   *{
     margin: 0;
