@@ -86,7 +86,7 @@ img {
   div{
     font-size: 12px;
   } 
-  .container,
+  #lezioni,
   #why {
     background-color: rgb(239, 240, 194);
     padding: 10px 0;
@@ -129,7 +129,7 @@ img {
   div{
     font-size: 14px;
   } 
-  .container,
+  #lezioni,
   #why {
     background-color: rgb(164, 212, 231);
     padding: 10px 0;
